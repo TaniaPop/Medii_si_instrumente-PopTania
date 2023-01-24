@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Medii_si_instrumente", "Medii_si_instrumente.csproj", "{0733AB4D-BFED-49B6-A508-21F86F82383F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0733AB4D-BFED-49B6-A508-21F86F82383F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0733AB4D-BFED-49B6-A508-21F86F82383F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0733AB4D-BFED-49B6-A508-21F86F82383F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0733AB4D-BFED-49B6-A508-21F86F82383F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {64461EF7-A02D-488E-A0EB-F068CE29D83C}
+	EndGlobalSection
+EndGlobal
